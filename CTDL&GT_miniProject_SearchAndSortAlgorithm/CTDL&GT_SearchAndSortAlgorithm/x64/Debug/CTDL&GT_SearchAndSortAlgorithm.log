@@ -1,0 +1,15 @@
+﻿  CTDL&GT_SearchAndSortAlgorithm.cpp
+C:\Users\lenovo\source\repos\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm\header.h(19,5): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\lenovo\source\repos\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm\header.h(25,10): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\lenovo\source\repos\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm\header.h(31,10): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\lenovo\source\repos\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm.cpp(37,27): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\lenovo\source\repos\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm.cpp(46,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\source\repos\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm.cpp(55,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\source\repos\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm.cpp(64,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\source\repos\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm\header.h(64,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\source\repos\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm.cpp(76,5): message : see reference to function template instantiation 'void selectionSort<float>(std::vector<float,std::allocator<float>> &)' being compiled
+C:\Users\lenovo\source\repos\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm\header.h(95,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\source\repos\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm.cpp(83,5): message : see reference to function template instantiation 'void heapSort<float>(std::vector<float,std::allocator<float>> &)' being compiled
+C:\Users\lenovo\source\repos\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm\header.h(107,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\source\repos\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm\CTDL&GT_SearchAndSortAlgorithm.cpp(90,5): message : see reference to function template instantiation 'void bubbleSort<float>(std::vector<float,std::allocator<float>> &)' being compiled
+  CTDL&GT_SearchAndSortAlgorithm.vcxproj -> C:\Users\lenovo\source\repos\CTDL&GT_SearchAndSortAlgorithm\x64\Debug\CTDL&GT_SearchAndSortAlgorithm.exe
